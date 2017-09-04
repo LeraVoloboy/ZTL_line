@@ -15,6 +15,7 @@
             <repr:parentStyle>#customStyle</repr:parentStyle>
             <repr:lineStyle>
                 <repr:strokeColor>FF0000</repr:strokeColor>
+                <repr:strokeWidth>3</repr:strokeWidth>
             </repr:lineStyle>
         </repr:Style>
     </repr:Representation>
@@ -30,7 +31,7 @@
                     <gml:pos>36.269659 54.529742</gml:pos>
                     <gml:pos>36.303652 54.567863</gml:pos>
                 </gml:LineString>
-                <ymaps:style>#customStyle</ymaps:style>
+                <ymaps:style>#customStyle1</ymaps:style>
             </ymaps:GeoObject>
         </gml:featureMembers>
     </ymaps:GeoObjectCollection>
