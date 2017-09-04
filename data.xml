@@ -8,7 +8,7 @@
         <repr:Style gml:id="customStyle">
             <repr:lineStyle>
                 <repr:strokeColor>FF9911</repr:strokeColor>
-                <repr:strokeWidth>7</repr:strokeWidth>
+                <repr:strokeWidth>3</repr:strokeWidth>
             </repr:lineStyle>
         </repr:Style>
         <repr:Style gml:id="customStyle1">
