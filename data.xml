@@ -32,12 +32,12 @@
                     <gml:pos>36.303652 54.567863</gml:pos>
                 </gml:LineString>
                 <gml:LineString>
-                    <gml:pos>	36.90994263	15.14280319	/gml:pos>
-                    <gml:pos>	36.90994263	15.14280319	/gml:pos>
-                    <gml:pos>	37.09025192	15.26942635	/gml:pos>
-                    <gml:pos>	36.926754	14.74682045	/gml:pos>
-                    <gml:pos>	36.926754	14.74682045	/gml:pos>
-                    <gml:pos>	36.926754	14.74682045	/gml:pos>
+                    <gml:pos>	36.90994263	15.14280319</gml:pos>
+                    <gml:pos>	36.90994263	15.14280319</gml:pos>
+                    <gml:pos>	37.09025192	15.26942635</gml:pos>
+                    <gml:pos>	36.926754	14.74682045</gml:pos>
+                    <gml:pos>	36.926754	14.74682045</gml:pos>
+                    <gml:pos>	36.926754	14.74682045</gml:pos>
                 </gml:LineString>
                 <ymaps:style>#customStyle1</ymaps:style>
             </ymaps:GeoObject>
