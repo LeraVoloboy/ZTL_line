@@ -22,17 +22,6 @@
     <ymaps:GeoObjectCollection>
         <gml:name>Ломаная и её стиль</gml:name>
         <gml:featureMembers>
-            <ymaps:GeoObject>
-                <gml:name>Маршрут</gml:name>
-                <gml:description>Маршрут в виде ломаной</gml:description>
-                <gml:LineString>
-                    <gml:pos>36.243914 54.565467</gml:pos>
-                    <gml:pos>36.259706 54.56447</gml:pos>
-                    <gml:pos>36.269659 54.529742</gml:pos>
-                    <gml:pos>36.303652 54.567863</gml:pos>
-                </gml:LineString>          
-                <ymaps:style>#customStyle1</ymaps:style>
-            </ymaps:GeoObject>
           <ymaps:GeoObject>
            <gml:name>Маршрут2</gml:name>
                 <gml:description>Маршрут в виде ломаной2</gml:description>
