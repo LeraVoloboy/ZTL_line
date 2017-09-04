@@ -44,6 +44,7 @@
                     <gml:pos>	36.926754	14.74682045</gml:pos>
                     <gml:pos>	36.926754	14.74682045</gml:pos>
                 </gml:LineString>
+            <ymaps:style>#customStyle1</ymaps:style>
             </ymaps:GeoObject>
         </gml:featureMembers>
     </ymaps:GeoObjectCollection>
